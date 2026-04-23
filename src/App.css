@@ -16,7 +16,7 @@
 
   z-index: -1;
 
-  background: linear-gradient(-45deg, #5D8736, #809D3C, #A9C46C, #F4FFC3);
+  background: linear-gradient(-45deg, #718f3b, #9fb66b, #dcde9a, #f1efee);
   background-size: 400% 400%;
 
   animation: gradientMove 12s ease infinite;
